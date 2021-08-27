@@ -16,7 +16,10 @@
     <div id="encabezado_centro"></div>
    
     <div id="encabezado_derecha" class ="encabezado_lado" >
-        <input id="pe" type ="button">
+  
+    <button id="registrarse">Registrarse</button>
+    <button id="ingresar">Ingresar</button>
+       
     </div>
 
 </div>
